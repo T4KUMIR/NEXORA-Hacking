@@ -106,8 +106,8 @@ Las siguientes distribuciones han sido probadas exitosamente:
 ### Paso 1: Clonar el repositorio
 
 ```bash
-git clone https://github.com/t4kumir/Nexora
-cd Nexora
+git clone https://github.com/T4KUMIR/NEXORA-Hacking.git
+cd NEXORA-Hacking
 ```
 
 ### Paso 2: Instalar dependencias

@@ -46,7 +46,7 @@ def banner():
 ██║ ╚████║███████╗██╔╝ ██╗╚██████╔╝██║  ██║██║  ██║
 ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 
-{GREEN}                 NEXORA - HACK v1.0{END}
+{GREEN}                 NEXORA - HACK v2.1{END}
 {WHITE}         Advanced Wireless Security Toolkit{END}
 {YELLOW}               by T4KUMIR{END}
 

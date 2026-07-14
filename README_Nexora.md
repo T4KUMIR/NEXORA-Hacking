@@ -1,7 +1,7 @@
 # 🛡️ Nexora
 
 <p align="center">
-  <img src="https://github.com/T4KUMIR/NEXORA-Hacking/blob/02aec8921ac023f51de83dfe72e8b6209468510e/nexora.png" alt="Nexora Logo">
+  <img src="https://github.com/T4KUMIR/user-img/blob/7e89deedc3baca92096de80044120aa35a70a37c/nexora.png" alt="Nexora Logo">
 </p>
 
 <p align="center">

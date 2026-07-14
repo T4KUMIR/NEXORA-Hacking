@@ -70,15 +70,6 @@ Las siguientes distribuciones han sido probadas exitosamente:
 ### Kali Linux (v2.1) ✔️
 ![Kali Linux Demo](https://user-images.githubusercontent.com/75953873/174921385-a512703d-a9d0-4ce5-837c-f7453401e140.png)
 
-### Parrot OS (v2.0) ✔️
-![Parrot OS Demo](https://user-images.githubusercontent.com/75953873/192111809-3f18078e-80ed-4470-aba7-d9c9fbf6f024.png)
-
-### Linux Mint (v1.0) ✔️
-![Linux Mint Demo](https://user-images.githubusercontent.com/75953873/139563944-7eef6e72-05fd-4481-bcc4-bffa6edbb512.png)
-
-### Ubuntu (v1.0) ✔️
-![Ubuntu Demo](https://user-images.githubusercontent.com/75953873/140593033-e8498792-2f3d-4651-8787-f882a43901b9.png)
-
 ---
 
 ## 📦 Requisitos
@@ -173,7 +164,7 @@ Sigue las instrucciones para generar un diccionario personalizado.
 - **[~]** Mejoras en la interfaz de usuario
 - **[~]** Optimizaciones de rendimiento
 
-![Salida CSV](https://github.com/user-attachments/assets/42bff460-f6b1-4298-b7fd-da347e6ff05e)
+![Salida CSV](https://github.com/T4KUMIR/user-img/blob/5525a2d222b3fe07f809398cf7e39e2adb697fed/img%20cvs%20nexora.png)
 
 ### 🆕 Versión 2.0
 
@@ -181,7 +172,7 @@ Sigue las instrucciones para generar un diccionario personalizado.
 - **[+]** Cracking de PIN WPS (Bully)
 - **[~]** Interfaz mejorada
 
-![Fake AP](https://user-images.githubusercontent.com/75953873/174706969-1ca06a64-e34c-4a99-9502-56291a2d188b.png)
+![Fake AP](https://github.com/T4KUMIR/user-img/blob/48142252a9c5d36f7ebd73106b6eb2d668819f9f/nexorap.png)
 
 ---
 

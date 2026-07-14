@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ============================================================
-# Script de instalación de dependencias para Wifi-Hack
+# Script de instalación de dependencias para Nexora
 # ============================================================
 
 set -euo pipefail

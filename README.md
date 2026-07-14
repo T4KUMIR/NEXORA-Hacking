@@ -68,7 +68,7 @@
 Las siguientes distribuciones han sido probadas exitosamente:
 
 ### Kali Linux (v2.1) ✔️
-![Kali Linux Demo](https://user-images.githubusercontent.com/75953873/174921385-a512703d-a9d0-4ce5-837c-f7453401e140.png)
+![Kali Linux](https://github.com/T4KUMIR/user-img/blob/2eb648547dc82f05cc7f92bf26c2d489a20059f9/Captura%20de%20pantalla%202026-07-14%20a%20la(s)%2014.03.07.png)
 
 ---
 

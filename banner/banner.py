@@ -48,7 +48,7 @@ def banner():
 
 {GREEN}                 NEXORA - HACK v1.0{END}
 {WHITE}         Advanced Wireless Security Toolkit{END}
-{YELLOW}               by Martín Yáñez{END}
+{YELLOW}               by T4KUMIR{END}
 
 {CYAN}════════════════════════════════════════════════════════════════════{END}
 """)
